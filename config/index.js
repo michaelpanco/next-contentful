@@ -1,0 +1,1 @@
+export { contentful } from './contentful';
